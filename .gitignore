@@ -1,0 +1,6 @@
+chrome_profile/
+sent_birthdays.json
+birthdaybot.log
+birthdaybot_error.log
+__pycache__/
+.DS_Store
